@@ -13,11 +13,19 @@ Este proyecto consiste en una página web con un formulario de inicio de sesión
 - **Responsive**: El diseño se adapta a pantallas de diferentes tamaños, desde dispositivos móviles hasta pantallas grandes de escritorio.
 - **Animaciones y efectos visuales** para mejorar la interacción del usuario.
 
+  ## Enlace al Proyecto
+
+Puedes ver una vista previa de este proyecto en el siguiente enlace:
+
+[Ver el Proyecto en Vivo](https://aceituno4488.github.io/LoginProject/)
+
+
 ## Tecnologías
 
 - HTML
 - CSS
 - Font Awesome (para los iconos de redes sociales)
+
 
 ## License
 
