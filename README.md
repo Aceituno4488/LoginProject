@@ -21,7 +21,7 @@ Este proyecto consiste en una página web con un formulario de inicio de sesión
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE.text](LICENSE) file for details.
 
 If you have any questions or want to collaborate, feel free to contact me at [riveramariana788@gmail.com](mailto:riveramariana788@gmail.com).
 
