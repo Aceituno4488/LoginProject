@@ -1,10 +1,10 @@
 # LoginAccount
 
-Este proyecto es un formulario de inicio de sesión con un diseño atractivo que incluye iconos de redes sociales y un formulario tradicional de correo electrónico y contraseña. Está diseñado para ser responsive y ajustarse a diferentes tamaños de pantalla, lo que garantiza una buena experiencia de usuario en dispositivos móviles, tabletas y computadoras de escritorio.
+Este proyecto fue creado por mí, Mariana Rivera Vázquez. Es un formulario de inicio de sesión con un diseño atractivo que incluye iconos de redes sociales y un formulario tradicional de correo electrónico y contraseña. Está diseñado para ser responsive y ajustarse a diferentes tamaños de pantalla, lo que garantiza una buena experiencia de usuario en dispositivos móviles, tabletas y computadoras de escritorio.
 
 ## Descripción
 
-El proyecto consiste en una página web con un formulario de inicio de sesión que permite a los usuarios ingresar su correo electrónico y contraseña. Además, incluye botones para iniciar sesión a través de redes sociales (Twitter, Google, Facebook), lo que mejora la accesibilidad al proporcionar múltiples opciones de inicio de sesión.
+Este proyecto consiste en una página web con un formulario de inicio de sesión donde los usuarios pueden ingresar su correo electrónico y contraseña. Además, incluye botones para iniciar sesión a través de redes sociales (Twitter, Google, Facebook), lo que mejora la accesibilidad al proporcionar múltiples opciones de inicio de sesión.
 
 ### Características
 
