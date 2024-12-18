@@ -26,3 +26,12 @@ LoginAccount/
 ├── index.html           # Página principal con el formulario de inicio de sesión
 ├── style.css            # Estilos de la página
 └── README.md            # Este archivo
+
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+If you have any questions or want to collaborate, feel free to contact me at [riveramariana788@gmail.com](mailto:riveramariana788@gmail.com).
+
