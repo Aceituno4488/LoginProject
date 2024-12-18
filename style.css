@@ -2,7 +2,6 @@ body {
     background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
     background-size: cover;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serifaaaaa;
-    /* Asegúrate de que la fuente esté bien escrita */
 }
 
 a {
@@ -16,9 +15,8 @@ a {
 /* Estilo para el botón de enviar */
 .submit_form {
     position: absolute;
-    margin-left: 610px;
+    margin-left: 619px;
     margin-top: -120px;
-
     padding: 20px 70px;
     outline: none;
     border: none;
@@ -127,7 +125,7 @@ a {
     gap: 40px;
 }
 
-/* Efecto de transición en los iconos de redes sociales */
+/* Efecto de transicion en los iconos de redes sociales */
 .icon i {
     font-size: 35px;
     color: rgba(238, 174, 202, 1);
@@ -140,7 +138,8 @@ a {
     color: rgba(148, 187, 233, 1);
 }
 
-/* Estilo común para campos de entrada */
+
+/*Personaliza el Input de el texto*/
 .gmail_input,
 .password_input,
 .custom-input {
@@ -150,21 +149,103 @@ a {
 }
 
 .forgot {
-    display: block; 
-    margin-top: 10px; 
+    display: block;
+    margin-top: 10px;
     color: rgba(238, 174, 202, 1);
 
 }
 
 
-/* Efecto de hover en el enlace de "Olvidé mi contraseña" */
 .forgot:hover {
     color: rgba(148, 187, 233, 1);
 }
 
-/* Estilo para los placeholders de los campos de entrada */
 ::placeholder {
     font-size: 20px;
     color: rgba(78, 142, 195, 0.395);
     padding-right: 5%;
+}
+
+
+
+@media (min-width: 601px) and (max-width: 1024px) {
+    .submit_form {
+        position: absolute;
+        margin-left: 366px;
+
+    }
+
+    .icon {
+        margin-left: 260px;
+    }
+
+    .login {
+        margin-left: 125px;
+        margin-top: 40px;
+        padding-top: 12%;
+        width: 700px;
+        height: 500px;
+        border-radius: 80px 20px;
+    }
+}
+
+
+@media (min-width: 601px) and (max-width: 768px) {
+    .submit_form {
+        position: absolute;
+        margin-left: 237px;
+    }
+
+
+    .login {
+        margin-left: 80px;
+        margin-top: 40px;
+        width: 526px;
+        height: 560px;
+        border-radius: 80px 20px;
+    }
+
+
+    .gmail_input {
+        width: 350px;
+    }
+
+    .password_input {
+        width: 350px;
+    }
+}
+
+
+
+@media (max-width: 600px) {
+    .submit_form {
+        position: absolute;
+        margin-left: 126px;
+
+    }
+
+    .icon {
+        margin-left: 260px;
+        margin-left: 88px;
+        margin-top: -62px;
+    }
+
+
+    .login {
+        margin-left: 57px;
+        margin-top: 60px;
+        padding-top: 27%;
+        width: 360px;
+        border-radius: 69px 10px;
+    }
+
+
+    .gmail_input {
+        width: 240px;
+    }
+
+    .password_input {
+        width: 240px;
+    }
+
 }
