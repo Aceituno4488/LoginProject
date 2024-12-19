@@ -196,6 +196,10 @@ a {
         margin-left: 237px;
     }
 
+    .icon{
+        margin-left: 178px;
+    }
+
 
     .login {
         margin-left: 80px;
@@ -265,7 +269,7 @@ a {
 
 
     .login {
-        margin-left: 10px;
+        margin-left: 11px;
         margin-top: 60px;
         padding-top: 27%;
         width: 330px;
